@@ -1,6 +1,4 @@
-![TestDriver_1](https://github.com/dashcamio/testdriver/assets/318295/2a0ad981-8504-46f0-ad97-60cb6c26f1e7)
-
-# TestDriver.ai
+![TestDriver.ai](https://github.com/dashcamio/testdriver/assets/318295/2a0ad981-8504-46f0-ad97-60cb6c26f1e7)
 
 Next generation autonomous AI agent for end-to-end testing of web & desktop
 
